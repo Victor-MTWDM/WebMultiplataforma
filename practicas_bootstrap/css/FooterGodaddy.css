@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(3, 8, 4);
+}
+
+.contenedor1-color {
+    background-color: rgb(9, 136, 41);
+    color: white;
+    margin-bottom: 0rem!important;
+}
+.contenedor2-color {
+    background-color: rgb(3, 8, 4);
+    color: white;
+    padding: 2rem;  
+}
